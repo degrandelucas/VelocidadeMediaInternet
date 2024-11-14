@@ -25,13 +25,6 @@ Este projeto é uma aplicação simples em Java que solicita ao usuário uma lis
 
 Para calcular a média das velocidades fornecidas, execute o programa e insira as velocidades separadas por vírgula quando solicitado. Por exemplo:
 
-```shell
-Digite as velocidades da internet, separadas apenas por vírgula ',':
-120,130,125,125,120,130
-
-```shell
-125
-
 ## Tecnologias Utilizadas
 
 - **Java 8 ou superior:** Utilizado para o desenvolvimento do projeto.
@@ -46,3 +39,10 @@ Digite as velocidades da internet, separadas apenas por vírgula ',':
 ## Autor
 
 - **Lucas Degrande**
+
+```shell
+Digite as velocidades da internet, separadas apenas por vírgula ',':
+120,130,125,125,120,130
+
+```shell
+125
