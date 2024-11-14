@@ -23,7 +23,7 @@ Este projeto é uma aplicação simples em Java que solicita ao usuário uma lis
 
 ## Exemplos de Uso
 
-Para calcular a média das velocidades fornecidas, execute o programa e insira as velocidades separadas por vírgula quando solicitado. Por exemplo:
+Para calcular a média das velocidades fornecidas, execute o programa e insira as velocidades separadas por vírgula quando solicitado. Por exemplo ao final.
 
 ## Tecnologias Utilizadas
 
